@@ -1,3 +1,4 @@
+![video1 00_01_14_27 Still004](https://github.com/Churanta/Binary-Brains/assets/83538805/96be2bef-421e-4015-91dc-1e1183328f94)
 # Gen-Ai-Rush-Buildathon
 
 ## Submission Instruction:
@@ -55,6 +56,9 @@ The primary focus of the tech stack is to enable the fine-tuning of the T5 model
 ## Video Demonstration
 
 
-
 https://github.com/Churanta/Binary-Brains/assets/83538805/ea694063-0e8f-4f69-b3a8-d28f87256963
 
+## Screenshots
+![Uploading video1.00_03_35_19.Still005.png…]()
+![Uploading video1.00_02_48_19.Still003.png…]()
+![video1 00_01_14_27 Still004](https://github.com/Churanta/Binary-Brains/assets/83538805/58371187-aacd-4bad-9689-b9bf5e237853)
