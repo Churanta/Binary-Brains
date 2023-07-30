@@ -43,7 +43,18 @@ The tech stack used in the provided code prototype includes the following compon
 The primary focus of the tech stack is to enable the fine-tuning of the T5 model for code generation while providing the necessary tools and utilities for data preprocessing, model handling, and training. The Hugging Face ecosystem plays a crucial role in simplifying many NLP-related tasks, allowing developers to work with advanced NLP models more efficiently.
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
+1. Clone the repository ` https://github.com/Churanta/Binary-Brains.git `
+2. run the ` training.py ` file
+3. wait till the model get trained
+4. run ` main.py `
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+  The biggest learning we had while developing this prototype was the practical implementation of fine-tuning a transformer-based model for a specific NLP task. I gained insights into dataset preparation, tokenization, training loop, and evaluation processes. Utilizing the Hugging Face `transformers` library simplified complex tasks, such as downloading datasets and managing checkpoints. Additionally, we learned the significance of distributed training in accelerating training on multiple GPUs. Understanding code generation using transformer models highlighted their potential in automating code-writing tasks. Overall, this experience deepened my knowledge of machine learning, NLP, and the capabilities of open-source libraries.
+
+
+## Video Demonstration
+
+
+
+https://github.com/Churanta/Binary-Brains/assets/83538805/ea694063-0e8f-4f69-b3a8-d28f87256963
+
