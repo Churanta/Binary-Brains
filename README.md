@@ -59,6 +59,8 @@ The primary focus of the tech stack is to enable the fine-tuning of the T5 model
 https://github.com/Churanta/Binary-Brains/assets/83538805/ea694063-0e8f-4f69-b3a8-d28f87256963
 
 ## Screenshots
-![Uploading video1.00_03_35_19.Still005.png…]()
-![Uploading video1.00_02_48_19.Still003.png…]()
+![video1 00_03_35_19 Still005](https://github.com/Churanta/Binary-Brains/assets/83538805/334c7bbb-80b8-42e1-8d5e-e17b75666ee5)
+
 ![video1 00_01_14_27 Still004](https://github.com/Churanta/Binary-Brains/assets/83538805/58371187-aacd-4bad-9689-b9bf5e237853)
+
+![video1 00_02_48_19 Still003](https://github.com/Churanta/Binary-Brains/assets/83538805/5851b13c-4757-4d49-a3ad-4506f2abf3da)
