@@ -1,4 +1,4 @@
-![video1 00_01_14_27 Still004](https://github.com/Churanta/Binary-Brains/assets/83538805/96be2bef-421e-4015-91dc-1e1183328f94)
+
 # Gen-Ai-Rush-Buildathon
 
 ## Submission Instruction:
