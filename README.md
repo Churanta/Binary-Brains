@@ -53,6 +53,9 @@ The primary focus of the tech stack is to enable the fine-tuning of the T5 model
 ## What I Learned:
   The biggest learning we had while developing this prototype was the practical implementation of fine-tuning a transformer-based model for a specific NLP task. I gained insights into dataset preparation, tokenization, training loop, and evaluation processes. Utilizing the Hugging Face `transformers` library simplified complex tasks, such as downloading datasets and managing checkpoints. Additionally, we learned the significance of distributed training in accelerating training on multiple GPUs. Understanding code generation using transformer models highlighted their potential in automating code-writing tasks. Overall, this experience deepened my knowledge of machine learning, NLP, and the capabilities of open-source libraries.
 
+## Architecture
+![Picture1](https://github.com/Churanta/Binary-Brains/assets/83538805/58ae9a02-057b-4def-bf84-aade6a35e131)
+
 
 ## Video Demonstration
 
@@ -60,6 +63,7 @@ The primary focus of the tech stack is to enable the fine-tuning of the T5 model
 https://github.com/Churanta/Binary-Brains/assets/83538805/ea694063-0e8f-4f69-b3a8-d28f87256963
 
 ## Screenshots
+
 ![video1 00_03_35_19 Still005](https://github.com/Churanta/Binary-Brains/assets/83538805/334c7bbb-80b8-42e1-8d5e-e17b75666ee5)
 
 ![video1 00_01_14_27 Still004](https://github.com/Churanta/Binary-Brains/assets/83538805/58371187-aacd-4bad-9689-b9bf5e237853)
