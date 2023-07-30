@@ -1,4 +1,4 @@
-
+![image](https://github.com/Churanta/Binary-Brains/assets/83538805/0924ef3c-8245-4642-9ce3-cf162d79d1bc)
 # Gen-Ai-Rush-Buildathon
 
 ## Submission Instruction:
@@ -11,7 +11,8 @@
 ## README.md must consist of the following information:
 
 #### Team Name - Binary Brains
-#### Problem Statement - 
+#### Problem Statement - MULTI-LANGUAGE CODE GENERATOR
+
 #### Team Leader Email - churantamondal321@gmail.com
 
 ## A Brief of the Prototype:
